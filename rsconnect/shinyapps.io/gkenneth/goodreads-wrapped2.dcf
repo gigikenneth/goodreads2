@@ -1,0 +1,12 @@
+name: goodreads-wrapped2
+title: goodreads-wrapped2
+username: gkenneth
+account: gkenneth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13638887
+bundleId: 9565906
+url: https://gkenneth.shinyapps.io/goodreads-wrapped2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
